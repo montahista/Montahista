@@ -22,6 +22,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
